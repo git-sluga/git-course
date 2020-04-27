@@ -7,4 +7,8 @@ const login = () {
 
 const validate = () {
     // validieren vom Formular
+    let i = 100;
+    for(x = 0; x < i; x++){
+        console.log(x);
+    }
 }
