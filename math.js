@@ -8,3 +8,5 @@ function data(){
     console.timeEnd("messung");
 }
 data();
+
+console.log("math.js");
