@@ -16,3 +16,5 @@ const validate = () {
     }
 }
 
+// bitte implementieren
+function add(a,b) {}
