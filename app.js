@@ -5,5 +5,13 @@ const login = () {
     const pwd  = document.getElementById("pwd");
 }
 
+const f = (){
+    console.log("f Function");
+}
+
 const validate = () {
+    // master branch
+    for(i = 0; i < 100;i++){
+        console.log(i);
+    }
 }
