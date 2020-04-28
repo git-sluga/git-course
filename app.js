@@ -1,20 +1,17 @@
 console.log("Hallo");
 
-const login = () {
-    const elem = document.getElementById("user");
-    const pwd  = document.getElementById("pwd");
-}
 
-const f = (){
-    console.log("any function");
-}
 
-const validate = () {
-    // error branch
-    for(x = 0; x < 10; x++){
-        console.log(x);
-    }
-}
+
 
 // bitte implementieren
-function add(a,b) {}
+function add(a,b) {
+    console.time("for");
+    let array = [];
+    for(x = 0; x < 10000; x++){
+        array[x] = x;
+    }
+    console.timeEnd("for");
+}
+
+add(1,2);
