@@ -16,5 +16,3 @@ const validate = () {
     }
 }
 
-
-const add = (a,b) {}
