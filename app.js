@@ -12,13 +12,10 @@ const validate = () {
     }
 }
 
-<<<<<<< HEAD
 function diff(){
     return "diff";
 }
-=======
 
 const add = (a,b) {
     return a + b;
 }
->>>>>>> 3e33c16939511b7f85de546139bbbd7ad862073f
