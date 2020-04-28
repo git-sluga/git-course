@@ -15,3 +15,6 @@ const validate = () {
         console.log(x);
     }
 }
+
+
+const add = (a,b) {}
