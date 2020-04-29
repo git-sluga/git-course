@@ -10,4 +10,3 @@ function data(){
 data();
 
 console.log("math.js");
-console.log(".....");
