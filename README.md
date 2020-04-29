@@ -1,2 +1,3 @@
 # git-course
-Wir lernen wie git funktionier
+Wir lernen wie git funktioniert
+## Hallo
