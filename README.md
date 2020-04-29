@@ -2,6 +2,4 @@
 Wie funktioniert Git
 
 # Lokaler Kommentar
-ein neuer Kommentar
-test
-Hallo
+ein neuer Kommentar wieder ein neuer....
