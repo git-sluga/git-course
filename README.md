@@ -5,3 +5,4 @@ Wie funktioniert Git
 ein neuer Kommentar wieder ein neuer....
 
 # remote comment
+# git fetch
