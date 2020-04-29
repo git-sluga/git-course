@@ -5,3 +5,4 @@ Wie funktioniert Git
 ein neuer Kommentar wieder ein neuer....
 
 #git pull
+#git fetch
